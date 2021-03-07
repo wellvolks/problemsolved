@@ -65,3 +65,5 @@ defaults:
     values:
       is_in_nav: true
 
+
+theme: jekyll-theme-cayman
